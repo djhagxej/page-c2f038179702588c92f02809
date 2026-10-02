@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "43859d1b6f3089deb3e9912f",
+  "owner": "djhagxej",
+  "repo": "page-c2f038179702588c92f02809",
+  "title": "Kakao",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c2f038179702588c92f02809",
+      "a": "Kakao",
+      "b": "",
+      "entity": "Kakao",
+      "brand": "Kakao",
+      "separator": "",
+      "path": "index.html",
+      "hash": "370b831fe753a921ba8c12cbf6a90f3463b69293d95eace2be4de7b80fff1668",
+      "content": {
+        "keyword1": "Kakao",
+        "keyword2": "",
+        "primary_entity": "Kakao",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Kakao 是面向全球用户的机场订阅与 VPN 加速服务，提供多套餐选择、多端客户端下载和稳定节点，助您高效访问国际网络，欢迎访问 Kakao 官方网站了解详情。",
+          "AI_DESCRIPTION": "Kakao 是面向全球用户的机场订阅与 VPN 加速服务，提供多套餐选择、多端客户端下载和稳定节点，助您高效访问国际网络，欢迎访问 Kakao 官方网站了解详情。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>:root{--bg:#FFF8F4;--alt:#FFF0E8;--coral:#E25C4A;--coral2:#C44B3B;--text:#2B2420;--muted:#6B5E56;--card:#FFFFFF;--bd:#F3D5CC}*{box-sizing:border-box}html,body{margin:0;padding:0;overflow-x:hidden;max-width:100%}body{background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;font-size:16px;line-height:1.7}a{color:var(--coral);text-decoration:none}a:hover{text-decoration:underline;color:var(--coral2)}.wrap{max-width:1080px;margin:0 auto;padding:0 16px}header{background:#fff;border-bottom:4px solid var(--coral);padding:12px 0}.nav{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:8px}.brand{font-size:1.5rem;font-weight:700;color:var(--coral)}nav ul{display:flex;flex-wrap:wrap;gap:12px 18px;list-style:none;margin:0;padding:0}nav a{font-weight:600;color:var(--text)}.hero{padding:36px 0 24px;background:var(--alt)}h1{font-size:1.85rem;line-height:1.35;margin:0 0 12px;color:var(--text)}.lead{font-size:1.05rem;color:var(--muted);max-width:42em}h2{font-size:1.4rem;margin:0 0 12px;color:var(--coral2);border-left:4px solid var(--coral);padding-left:10px}h3{font-size:1.15rem;margin:1.2em 0 0.4em}section{padding:28px 0}.stagger{display:flex;flex-wrap:wrap;gap:20px;align-items:flex-start}.stagger>*{flex:1 1 280px}.card-box{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:18px}.plans{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:16px}.plan{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:20px;display:flex;flex-direction:column}.plan.featured{border:3px solid var(--coral);background:#FFF6F3}.plan h3{margin-top:0;color:var(--coral)}.price{font-size:1.7rem;font-weight:700;color:var(--coral);margin:8px 0}.annual{font-size:0.92rem;color:var(--muted);margin-bottom:12px}.plan ul{margin:0;padding-left:1.1em;flex:1}.plan li{margin:6px 0}.badge{display:inline-block;background:var(--coral);color:#fff;font-size:0.75rem;padding:2px 8px;border-radius:999px;margin-left:6px;vertical-align:middle}.steps{padding-left:1.2em}.faq details{background:var(--card);border:1px solid var(--bd);border-radius:8px;padding:10px 14px;margin:10px 0}.faq summary{font-weight:600;color:var(--text)}.faq details p{margin:8px 0 4px;color:var(--muted)}.list-inline{display:flex;flex-wrap:wrap;gap:10px 16px;list-style:none;padding:0;margin:8px 0}footer{background:#2B2420;color:#F5EBE6;padding:28px 0;margin-top:20px;font-size:0.92rem}footer a{color:#FFB4A8}.muted{color:var(--muted)}.cta{display:inline-block;background:var(--coral);color:#fff;padding:10px 18px;border-radius:8px;font-weight:600;margin-top:12px}.cta:hover{color:#fff;background:var(--coral2);text-decoration:none}@media(max-width:800px){.plans{grid-template-columns:1fr}h1{font-size:1.55rem}.stagger{flex-direction:column}nav ul{width:100%}}</style><header><div class=\"wrap nav\"><a class=\"brand\" href=\"#\">Kakao</a><nav><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#plans\">套餐对比</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li></ul></nav></div></header><main><section class=\"hero\"><div class=\"wrap\"><h1>Kakao 官方网站 — 机场订阅与 VPN 梯子加速</h1><p class=\"lead\">Kakao 提供面向日常上网、跨境协作与流媒体访问的机场订阅服务。本页说明套餐差异、节点用途、客户端下载路径与导入步骤，方便你在官方网站一次性完成选型与上手。</p><a class=\"cta\" href=\"#plans\">查看套餐对比</a></div></section><section id=\"intro\"><div class=\"wrap stagger\"><div><h2>关于 Kakao</h2><p>Kakao 是以订阅制交付的网络加速平台，核心能力是把可用节点、流量配额与多端客户端组合在一起。用户完成套餐开通后即可获取订阅链接，在常用加速器中导入，按地区或用途切换线路。</p><p>与临时分享节点不同，Kakao 强调可续费、可扩容和可追溯的官方交付：流量按月结算，设备数量按套餐限制，工单通道按版本区分。旗舰版起提供 IPLC 游戏向优化，团队版面向多成员共用与定制路由。</p></div><div class=\"card-box\"><h3>官方身份与交付方式</h3><p class=\"muted\">Kakao 官方网站只公布套餐、使用说明与客户端适配信息。订阅凭证通过开通后的账户通道下发，不在页面内嵌第三方跳转下载包。节点覆盖亚太与欧美常用区域，日常以香港、日本、新加坡、美国西岸为主，并按套餐开放原生流媒体出口。</p></div></div></section><section id=\"scenes\"><div class=\"wrap\"><h2>使用场景</h2><div class=\"stagger\"><div class=\"card-box\"><h3>留学与远程办公</h3><p>访问学校邮箱、文献库、云文档与会议软件时，可选择延迟更稳的专线或邻近区域节点，减少握手失败与中途掉线。团队版支持更多设备同时在线，适合宿舍或小型工作室共用。</p></div><div class=\"card-box\"><h3>流媒体与内容创作</h3><p>基础版解锁常见影视站点的基础线路；旗舰版与团队版开放全节点原生流媒体出口，适合需要稳定画质与较少验证提示的观看、字幕与素材下载场景。</p></div></div><div class=\"stagger\"><div class=\"card-box\"><h3>游戏加速</h3><p>旗舰版包含 IPLC 专线游戏加速优化，针对匹配、登录与更新下载做线路筛选。仍建议在客户端中固定游戏节点，避免自动切换造成的会话重置。</p></div><div class=\"card-box\"><h3>多设备日常翻墙式加速</h3><p>手机、电脑与平板可共用同一订阅。基础版限 3 台、旗舰版 5 台、团队版 20 台。超出设备数时，优先在客户端里登出闲置会话，而不是重复导入新配置。</p></div></div></div></section><section id=\"plans\"><div class=\"wrap\"><h2>Kakao 套餐对比</h2><p class=\"muted\">价格按自然月计费，年付可锁定全年用量。选择时先看设备数与流量，再看流媒体与专线是否为刚需。旗舰版在个人用户中覆盖面最完整。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a class=\"cta\" href=\"#guide\">了解如何开通</a></article><article class=\"plan featured\"><h3>旗舰版<span class=\"badge\">主推</span></h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a class=\"cta\" href=\"#guide\">按旗舰版流程使用</a></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a class=\"cta\" href=\"#guide\">查看团队部署步骤</a></article></div></div></section><section><div class=\"wrap stagger\"><div><h2>节点与性能说明</h2><p>Kakao 节点池按套餐分层：基础版使用普通线路，满足网页、邮件与轻量视频；旗舰版加入 IPLC 与原生流媒体出口；团队版额外提供高带宽 VIP 节点，并可申请固定出口与分流规则。</p><p>晚间高峰以亚太互访为主，建议优先选择地理更近的入口。若某一入口拥塞，可在客户端手动切换同区域备用节点，不必反复重装。持续大文件传输请预留流量余量，避免月中提前用尽配额。</p></div><div class=\"card-box\"><h3>线路使用建议</h3><p>网页与文档：邻近普通节点。高清影视：原生流媒体标签节点。对战游戏：IPLC 或游戏优化标签。企业内网与多地域协作：团队版定制路由。遇到证书报错时，先核对系统时间与客户端内核版本，再更换节点。</p></div></div></section><section id=\"guide\"><div class=\"wrap\"><h2>操作说明</h2><div class=\"stagger\"><div><h3>开通与订阅</h3><ol class=\"steps\"><li>在套餐对比中选定版本，完成官方开通。</li><li>进入账户页复制机场订阅链接，勿把链接发到公开聊天。</li><li>按设备安装对应客户端，选择「从 URL 导入」或「订阅」。</li><li>更新节点列表后，按场景选择线路并开启系统代理或 TUN。</li><li>首次连接成功后，建议收藏当前可用节点，减少自动选择带来的波动。</li></ol></div><div class=\"card-box\" id=\"download\"><h3>客户端下载与适配</h3><p>Kakao 不捆绑单一闭源安装包，而是兼容主流加速器。Windows 与 macOS 可使用 Clash 系图形客户端；Android 使用 Meta 内核应用；iOS 使用支持订阅的商店应用。下载请到各系统官方应用来源，再回到本页对应的导入步骤。</p><ul><li>Windows：Clash Verge / FlClash 等，导入订阅后开启 TUN。</li><li>macOS：ClashX.Meta 或 Stash，允许网络扩展权限。</li><li>Android：Clash Meta for Android，通知栏保留开关。</li><li>iOS：Shadowrocket 或同类订阅客户端，按需开启局域网共享。</li><li>Linux：命令行或兼容 Clash 配置的桌面端，注意 systemd 代理冲突。</li></ul><a class=\"cta\" href=\"#faq\">下载后常见问题</a></div></div></div></section><section id=\"faq\" class=\"faq\"><div class=\"wrap\"><h2>常见问题</h2><details><summary>Kakao 和普通 VPN 有什么区别？</summary><p>Kakao 以机场订阅方式交付，一次导入即可获得一组可更新节点，而不是单一固定服务器。流量、设备数和线路等级写在套餐里，更适合需要长期使用、多设备切换和流媒体出口的用户。</p></details><details><summary>如何确认自己走的是官方下载与官方订阅？</summary><p>只在 Kakao 官方网站核对套餐名称、价格与权益，订阅链接仅从开通后的账户页复制。客户端安装包请来自系统官方商店或开发者站点，不要使用来路不明的「一键包」。</p></details><details><summary>流量用完或设备超限会怎样？</summary><p>当月流量耗尽后新连接会失败或降为不可用，可等待下个计费周期或升级套餐。设备超限时，旧会话可能被踢出，请在客户端登出不用的终端后再连接。</p></details><details><summary>旗舰版的 IPLC 一定更快吗？</summary><p>IPLC 主要降低跨境绕路带来的抖动，对游戏和对时延敏感的会议更明显。若你只浏览网页，普通线路通常已经够用。实际体验仍取决于本地宽带、入口负载和目标站点，需要在客户端里对比同区域节点。</p></details><details><summary>年付和月付可以互相转换吗？</summary><p>年付按 12 个月锁定对应档位价格：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。周期内一般不按天折算降级；若需更多流量或设备，可在到期前升级到更高版本并重新导入订阅。</p></details><details><summary>企业或社团适合直接买团队版吗？</summary><p>若成员超过 5 台终端、需要专属带宽或定制分流，团队版更省事，并含客户经理对接。成员较少且只用流媒体时，可先从旗舰版观察实际消耗，再决定是否升级。</p></details></div></section><section><div class=\"wrap\"><h2>合作推广</h2><p class=\"muted\">以下为页面预留广告位，仅作站内说明，不跳出外部资源。</p><ul class=\"list-inline\"><li><a href=\"#plans\">Kakao 旗舰版年付提醒</a></li><li><a href=\"#download\">多端客户端适配公告</a></li><li><a href=\"#guide\">团队版定制路由咨询</a></li></ul></div></section><section><div class=\"wrap\"><h2>友情链接</h2><ul class=\"list-inline\"><li><a href=\"#\">网络诊断手册</a></li><li><a href=\"#\">系统代理设置说明</a></li><li><a href=\"#\">流媒体分区对照</a></li><li><a href=\"#\">办公会议端口须知</a></li><li><a href=\"#intro\">返回 Kakao 简介</a></li></ul></div></section><section id=\"sitemap\"><div class=\"wrap\"><h2>网站地图</h2><ul class=\"list-inline\"><li><a href=\"#\">首页</a></li><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#plans\">套餐对比</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li></ul></div></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>Kakao 官方网站 · 机场订阅与 VPN 梯子网络加速信息页</p><p>内容覆盖套餐对比、节点用途、客户端下载与导入说明。链接均为页内锚点，便于在手机上连续阅读。</p><p><a href=\"#\">返回顶部</a> · <a href=\"#sitemap\">网站地图</a></p></div></footer>",
+          "hash": "a55f48b30dd5e89d9d9921b4b6a702b929eb6fdc9daa0b7f0fcb169438cd2405",
+          "seo": {
+            "title": "Kakao 官网 | VPN 梯子网络加速、机场订阅与客户端下载",
+            "keywords": "Kakao,Kakao VPN,Kakao机场,Kakao加速器,梯子网络加速,机场订阅,客户端下载,官网下载,VPN加速",
+            "description": "Kakao 是面向全球用户的机场订阅与 VPN 加速服务，提供多套餐选择、多端客户端下载和稳定节点，助您高效访问国际网络，欢迎访问 Kakao 官方网站了解详情。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "baqltfp.cn",
+    "host": "p-aa400457f1.baqltfp.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "pmcpo.cn",
+      "url": "https://pmcpo.cn/",
+      "label": "Kakao",
+      "apex": "pmcpo.cn",
+      "kind": null,
+      "identity": "bduacmety/page-922e794ba7e2a758a6c7a0dc"
+    },
+    {
+      "host": "pqoic.cn",
+      "url": "https://pqoic.cn/",
+      "label": "Kakao",
+      "apex": "pqoic.cn",
+      "kind": null,
+      "identity": "wyeueuajy/page-5df1ab0c36fdf3dc6ddcaa3b"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "a421b95a226b228e48a1c1ab1ac62f2c79734dbd0a34b0f68a135581fac8fefd",
+    "sitemap.xml": "0fc5b3085fa11ef5407456d6b8b566cd71e4b5512b7435e8ff2129a71ea2ec2a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f6ab0ea15ffd9a70bb13fd525c32044a09a022a8b4ae28a2c42137185493129a",
+    "robots.txt": "bc4098e8757059e742458caa2a9524dd900ef0c126a639a005f71d27ef18bfe5",
+    "694c0369391ff970f8640f4652f0b4a7.txt": "4ccdd90708c47ce88b983d96ef2929cac3789923b9f95a1218c7d5da27d6c724"
+  },
+  "revision": "3d83132b471c1eb953f7d7c7aa0f3e4441148a1346104858505521a9ecf9decc"
+}
